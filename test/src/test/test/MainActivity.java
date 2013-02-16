@@ -6,7 +6,7 @@ import android.util.Log;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
-
+//여긴어디?
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
