@@ -7,6 +7,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 //여긴어디?
+//브랜치를 만들었다
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
